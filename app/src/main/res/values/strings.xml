@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">notes</string>
+    <string name="save">save</string>
+    <string name="add">Add</string>
+    <string-array name="tasks">
+        <item>Task 1</item>
+        <item>Task 2</item>
+        <item>Task 3</item>
+    </string-array>
+</resources>
